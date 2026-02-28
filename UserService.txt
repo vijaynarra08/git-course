@@ -1,2 +1,4 @@
 get the user data... 
 processing the data
+
+create an avator for user
